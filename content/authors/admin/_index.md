@@ -67,6 +67,7 @@ work:
     date_start: 2021-08-31
     date_end: ''
     summary: |
+      High-field MRI (15.2T) research
 
   - position: Graduate Research Assistant
     company_name: Best-Image & Siemens Health
