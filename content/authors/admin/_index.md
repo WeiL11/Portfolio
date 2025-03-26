@@ -56,7 +56,7 @@ education:
   - area: Ph.D. Biomedical Engineering
     institution: Vanderbilt University
     date_start: 2021-08-31
-    date_end: Present
+    date_end: 2026-06-30
     summary: |
       {Ph.D.}
     button:
