@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李梓維
+title: Tzu Wei Lee
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -10,7 +10,7 @@ first_name: TzuWei
 last_name: Lee
 
 # Status emoji
-status:
+status: 🧠 
   icon: ⌓‿⌓
 
 # Is this the primary user of the site?
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -30,25 +30,17 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  - icon: envelope
+    url: 'mailto:tzuweilee@outlook.com'
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/weileevandy/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Biomedical Engineering
   - Signal/Image Processing
+  - Deep Learning
   - MR Physics
   - Neuroscience
 
@@ -95,7 +87,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ---
+Hello! This is Wei (李梓維), I am a Ph.D. candidate in Biomedical Engineering at [Vanderbilt University](https://www.vanderbilt.edu/), working with Prof. John Gore, and affiliated with [Vanderbilt University Institute of Imaging Science (VUIIS)](https://www.vumc.org/vuiis/welcome). My research interests broadly lie in signal/image processing, neuroscience, brain decoding and machine learning. 
 
-## About Me
+Outside of academic research, I’m interested in applying AI to tackle real-world challenges. Specifically, I’m fascinated by its potential in domains such as advanced image processing (e.g., CMOS sensor optimization, video compression, and color correction), quantitative trading strategies, and pushing the boundaries of semiconductor technologies.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
