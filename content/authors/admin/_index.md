@@ -82,7 +82,7 @@ work:
 
 
 ---
-Hello! This is Wei (李梓維), I am a Ph.D. candidate in Biomedical Engineering at [Vanderbilt University](https://www.vanderbilt.edu/), working with Prof. John Gore, and affiliated with [Vanderbilt University Institute of Imaging Science (VUIIS)](https://www.vumc.org/vuiis/welcome). My research interests broadly lie in signal/image processing, neuroscience, brain decoding and machine learning. 
+Hello! This is Tzu-Wei (李梓維), I am a Ph.D. candidate in Biomedical Engineering at [Vanderbilt University](https://www.vanderbilt.edu/), working with Prof. John Gore, and affiliated with [Vanderbilt University Institute of Imaging Science (VUIIS)](https://www.vumc.org/vuiis/welcome). My research interests broadly lie in signal/image processing, neuroscience, brain decoding and machine learning. 
 
 Outside of academic research, I’m interested in applying AI to tackle real-world challenges. Specifically, I’m fascinated by its potential in domains such as advanced image processing (e.g., CMOS sensor optimization, video compression, and color correction), quantitative trading strategies, and pushing the boundaries of semiconductor technologies.
 
