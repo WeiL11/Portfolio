@@ -10,7 +10,7 @@ first_name: TzuWei
 last_name: Lee
 
 # Status emoji
-status: 🧠
+status: 
   icon: ⌓‿⌓
 
 # Is this the primary user of the site?
