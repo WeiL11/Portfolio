@@ -10,7 +10,7 @@ first_name: TzuWei
 last_name: Lee
 
 # Status emoji
-status: 🧠 
+status: 🧠
   icon: ⌓‿⌓
 
 # Is this the primary user of the site?
@@ -50,10 +50,7 @@ education:
     date_start: 2021-08-31
     date_end: 2026-06-30
     summary: |
-      {Ph.D.}
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Advisor: Prof. John Gore | Co-advisor: Catie Chang, Li Min Chen & Adam Anderson 
 
   - area: Biomedical Engineering
     institution: Taipei Medical University
@@ -69,22 +66,20 @@ work:
     company_logo: ''
     date_start: 2021-08-31
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+    
+
+  - position: Graduate Research Assistant
+    company_name: Best-Image & Siemens Health
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Coordinated and optimized research applications of a new MR scanner @ Changhua Christian Hospital.
+      - Built processing pipelines and ML-based filters to enhance MRI analysis for Alzheimer's disease research.
+      - Developed & optimized IDEA pulse sequences (C#) for ASL on a 3T Siemens PRISMA MRI (VE11C).
+
 
 ---
 Hello! This is Wei (李梓維), I am a Ph.D. candidate in Biomedical Engineering at [Vanderbilt University](https://www.vanderbilt.edu/), working with Prof. John Gore, and affiliated with [Vanderbilt University Institute of Imaging Science (VUIIS)](https://www.vumc.org/vuiis/welcome). My research interests broadly lie in signal/image processing, neuroscience, brain decoding and machine learning. 
