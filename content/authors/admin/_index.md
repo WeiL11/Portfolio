@@ -50,7 +50,7 @@ education:
     date_start: 2021-08-31
     date_end: ''
     summary: |
-      Advisor: Prof. John Gore
+      Advisor: Prof. John Gore  
       Co-advisor: Prof. Catie Chang, Prof. Li Min Chen & Prof. Adam Anderson 
 
   - area: B.S. Biomedical Engineering
@@ -58,7 +58,7 @@ education:
     date_start: 2016-09-01
     date_end: 2020-06-30
     summary: |
-      Last 60 GPA: 3.9/4.0
+      Last 60 GPA: 3.9/4.0  
       Taipei Medical University 60th Anniversary Sports Representative 
 
 work:
@@ -69,9 +69,9 @@ work:
     date_start: 2021-08-31
     date_end: ''
     summary: |
-      High-field MRI (15.2T) research
+      - High-field MRI (15.2T) research
+      - Mouse brain and spinal cord fMRI 
       
-
   - position: Graduate Research Assistant
     company_name: Best-Image & Siemens Health
     company_url: ''
@@ -83,6 +83,15 @@ work:
       - Built processing pipelines and ML-based filters to enhance MRI analysis for Alzheimer's disease research.
       - Developed & optimized IDEA pulse sequences (C#) for ASL on a 3T Siemens PRISMA MRI (VE11C).
 
+languages:
+  - name: English
+    percent: 95
+  - name: Mandarin (Chinese)
+    percent: 100
+  - name: Japanese
+    percent: 25
+  - name: Korean
+    percent: 25
 
 ---
 Hello! This is Tzu-Wei (李梓維), I am a Ph.D. candidate in Biomedical Engineering at [Vanderbilt University](https://www.vanderbilt.edu/), working with Prof. John Gore, and affiliated with [Vanderbilt University Institute of Imaging Science (VUIIS)](https://www.vumc.org/vuiis/welcome). My research interests broadly lie in signal/image processing, neuroscience, brain decoding and machine learning. 
