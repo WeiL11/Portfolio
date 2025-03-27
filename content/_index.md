@@ -15,10 +15,6 @@ sections:
       username: admin
       text: ""
 
-    design:
-      css_class: text-gray-700
-      background:
-        color: white
 
       
   - block: collection
