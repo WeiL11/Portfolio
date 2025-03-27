@@ -42,7 +42,7 @@ footer:
   copyright:
     notice: ''
     license:
-      enable: false
+      enable: true
 
 
 # Localization
