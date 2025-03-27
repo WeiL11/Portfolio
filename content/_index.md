@@ -15,7 +15,6 @@ sections:
       username: admin
       text: ""
 
-
       
   - block: collection
     id: projects
