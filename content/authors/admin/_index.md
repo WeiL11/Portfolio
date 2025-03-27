@@ -12,6 +12,7 @@ last_name: Lee
 # Status emoji
 status: 
   icon: 😎
+  
 avatar: usagi.jpg
 
 # Is this the primary user of the site?
