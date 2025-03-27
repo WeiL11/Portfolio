@@ -5,11 +5,9 @@ external_link: https://colab.research.google.com/drive/1zXT5xdsrXTGMEECNRYA3HPWt
 summary: "A Colab demo of an ISP pipeline for CMOS sensors, including Bayer-to-RGB conversion, Auto White Balance, CCM, and exposure simulation."
 
 tags:
-  - Hugo
+  - Usagi shot on a CMOS sensor camera
   - Wowchemy
   - Markdown
 ---
-
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
 
 <!--more-->
