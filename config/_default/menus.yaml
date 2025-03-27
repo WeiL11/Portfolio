@@ -7,10 +7,10 @@ main:
   - name: About
     url: /
     weight: 10
+  - name: Projects
+    url: projects/
+    weight: 15
   - name: CV
     url: experience/
     weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
 
