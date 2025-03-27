@@ -11,7 +11,7 @@ last_name: Lee
 
 # Status emoji
 status: 
-  icon: ⌓‿⌓
+  icon: 😎
 
 avatar: usagi.jpg
 
@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D. Candidate 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -61,7 +61,7 @@ education:
     date_start: 2016-09-01
     date_end: 2020-06-30
     summary: |
-      Last 60 GPA: 3.9/4.0  
+      Overall GPA: 3.52/4.00, Last 60 GPA: 3.9/4.0, Programming GPA: 4.00/4.00
       Taipei Medical University 60th Anniversary Sports Representative 
 
 work:
@@ -99,5 +99,5 @@ languages:
 ---
 Hello! This is Tzu-Wei (李梓維), I am a Ph.D. candidate in Biomedical Engineering at [Vanderbilt University](https://www.vanderbilt.edu/), working with Prof. John Gore, and affiliated with [Vanderbilt University Institute of Imaging Science (VUIIS)](https://www.vumc.org/vuiis/welcome). My research interests broadly lie in signal/image processing, neuroscience, brain decoding and machine learning. 
 
-Outside of academic research, I’m interested in applying AI to tackle real-world challenges. Specifically, I’m fascinated by its potential in domains such as advanced image processing (e.g., CMOS sensor optimization, video compression, and color correction), quantitative trading strategies, and pushing the boundaries of semiconductor technologies.
+Outside of academic research, I’m interested in applying AI to tackle real-world challenges. Specifically, I’m fascinated by its potential in domains such as advanced image processing (e.g., CMOS sensor optimization, video compression, and color correction), quantitative trading strategies, and pushing the boundaries of semiconductor technologies — a subject I hold close as a Taiwanese, given our nation's role in the industry.
 
