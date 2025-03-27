@@ -16,7 +16,7 @@ sections:
       text: ""
 
     design:
-      css_class: dark
+      css_class: text-gray-700
       background:
         color: white
 
