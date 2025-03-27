@@ -18,12 +18,12 @@ sections:
 
       
   - block: collection
-    id: papers
+    id: projects
     content:
       title: Projects
       filters:
         folders:
-          - publication
+          - project
         featured_only: true
     design:
       view: article-grid
