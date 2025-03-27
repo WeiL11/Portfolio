@@ -38,8 +38,8 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - Biomedical Engineering
   - Signal/Image Processing
+  - Image reconstruction 
   - Deep Learning
   - MR Physics
   - Neuroscience
@@ -48,16 +48,18 @@ education:
   - area: Ph.D. Biomedical Engineering
     institution: Vanderbilt University
     date_start: 2021-08-31
-    date_end: 2026-06-30
+    date_end: ''
     summary: |
-      Advisor: Prof. John Gore | Co-advisor: Catie Chang, Li Min Chen & Adam Anderson 
+      Advisor: Prof. John Gore
+      Co-advisor: Prof. Catie Chang, Prof. Li Min Chen & Prof. Adam Anderson 
 
-  - area: Biomedical Engineering
+  - area: B.S. Biomedical Engineering
     institution: Taipei Medical University
     date_start: 2016-09-01
     date_end: 2020-06-30
     summary: |
       Last 60 GPA: 3.9/4.0
+      Taipei Medical University 60th Anniversary Sports Representative 
 
 work:
   - position: Graduate Research Assistant
@@ -68,6 +70,7 @@ work:
     date_end: ''
     summary: |
       High-field MRI (15.2T) research
+      
 
   - position: Graduate Research Assistant
     company_name: Best-Image & Siemens Health
