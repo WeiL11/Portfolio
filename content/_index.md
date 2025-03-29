@@ -46,6 +46,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
+  
   - block: collection
     id: projects
     content:
