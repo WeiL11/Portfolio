@@ -16,7 +16,7 @@ sections:
       text: ""
   content/post/data-visualization
 
-    - block: collection
+  - block: collection
     id: news
     content:
       title: Recent News
@@ -45,7 +45,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-        
+
   - block: collection
     id: projects
     content:
