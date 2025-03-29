@@ -39,8 +39,7 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      view: article-grid
-      columns: 3
+      view: card
 
   
   - block: collection
